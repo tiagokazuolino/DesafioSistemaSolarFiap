@@ -21,6 +21,14 @@ flutter:
   assets:
     - lib/ui/assets/icons/
     - lib/ui/assets/images/
+    - lib/ui/assets/images/earth/
+    - lib/ui/assets/images/jupiter/
+    - lib/ui/assets/images/mars/
+    - lib/ui/assets/images/mercury/
+    - lib/ui/assets/images/neptune/
+    - lib/ui/assets/images/saturn/
+    - lib/ui/assets/images/uranus/
+    - lib/ui/assets/images/venus/
 flutter_native_splash:
   # This package generates native code to customize Flutter's default white native splash screen
   # with background color and splash image.
